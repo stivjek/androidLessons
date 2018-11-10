@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">sqllite</string>
+    <string name="process_name">weather</string>
 </resources>
